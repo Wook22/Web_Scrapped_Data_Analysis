@@ -32,9 +32,9 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
  'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."}
 ```
   
-* Store all the dictionaries in a Python list.
-   
-* Print the list in your notebook.
+    * Store all the dictionaries in a Python list.
+       
+    * Print the list in your notebook.
 
 4. Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file. (Note: there will be no extra points for completing this.)
 
